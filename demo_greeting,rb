@@ -1,0 +1,8 @@
+puts "Welcome to the danger zone! please enter your name so we know"
+
+name = gets.strip
+puts "Hello #{name}! Welcome to the Danger Zone!"
+
+def print_welcome
+  puts "Welcome!"
+end
